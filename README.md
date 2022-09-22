@@ -9,8 +9,10 @@
 
 - ⚡ Fun fact **I am young stunter**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Projects:</h3>
 <p align="left">
+2018-2021 Atlantis -  Nostale Private Server https://atlagaming.eu/
+2022 RotaryImpro - Mazda RX-8 Additional Display aand 3d pritning http://rotaryimprovments.com/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
