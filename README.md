@@ -11,7 +11,7 @@
 
 <p align="left">Projects: </p>
 
-- 2018-2020 **Atlantis** -  Nostale Private Server https://atlagaming.eu/
+- 2018 - 2020 **Atlantis** -  Nostale Private Server https://atlagaming.eu/
 
 - 2018 - 2021 A helper of many **Nostale private servers** from a programming point of view
 
